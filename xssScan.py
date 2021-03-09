@@ -33,6 +33,7 @@ def xssFind():
         2)  DIV PAYLOAD LIST
         3)  IMG PAYLOAD LIST
         4)  BODY PAYLOAD LIST
+        TITANES LIST 1
         5)  SVG PAYLOAD LIST
         6)  MIXED PAYLOAD LIST
         7)  ENTER FILE PATH
